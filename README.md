@@ -1,8 +1,6 @@
 # Doodle-Jump
-Doodle Jump online game
+Doodle Jump classique.
 
 
-## How to paly it --
-  use ArrowUP Key to jump.
-  use ArrowLeft Key to move left.
-  use ArrowRight to move right.
+## Comment jouer ? --
+  Utilisez les flèches directionnelles pour controler le personnage.
